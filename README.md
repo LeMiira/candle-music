@@ -1,9 +1,18 @@
 # 🕯️ Candle Music
 
+<p>
+  <img src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/pinia-%23FFE066.svg?style=for-the-badge&logo=pinia&logoColor=black" alt="Pinia" />
+  <img src="https://img.shields.io/badge/tone.js-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Tone.js" />
+  <img src="https://img.shields.io/badge/Binance_API-%23FCD535.svg?style=for-the-badge&logo=binance&logoColor=black" alt="Binance" />
+</p>
+
 > **Live BTC price candles — turned into music.**  
 > Every market move plays a note. Every beat is a candle close.
 
-**Live demo → [miiiira.com/candle-music](https://www.miiiira.com/candle-music)**
+**Live demo → [play.miiiira.com/candle](https://play.miiiira.com/candle)**
 
 ---
 
